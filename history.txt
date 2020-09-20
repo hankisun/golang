@@ -1,0 +1,139 @@
+    1  git config
+    2  git config --system
+    3  ~/.gitconfig
+    4  git config --local
+    5  git config --global
+    6  cd d:
+    7  cd ProgramInUse/
+    8  ls -al
+    9  cd Git
+   10  ls -al
+   11  cd bin
+   12  ls -al
+   13  cd ..
+   14  cd usr
+   15  ls -al
+   16  cd bin
+   17  ls -al
+   18  cd ..
+   19  ls -al
+   20  cd ..
+   21  ls -al
+   22  cd etc
+   23  ls -al
+   24  git config --system
+   25  ls 0al
+   26  ls -al
+   27  git config
+   28  git config --global
+   29  cd %HOME
+   30  cd ..
+   31  ls -al
+   32  cd ..
+   33  ls -al
+   34  git config --list
+   35  git config --global user.name "Kisun Han"
+   36  git config --list
+   37  git config --global user.name=ksun-han
+   38  git config --global user.name="ksun-han"
+   39  git config --global user.name "ksun-han"
+   40  git config --lsit
+   41  git config --list
+   42  git config user.email picatwo@naver.com
+   43  git config --global user.email picatwo@naver.com
+   44  git config --list
+   45  git config user.name
+   46  git config --show-origin user.name
+   47  git help config
+   48  git add -h
+   49  git config -h
+   50  cd ../myProjects/hellogit/
+   51  git init
+   52  git add -h
+   53  git add *.c
+   54  git add LICENSE
+   55  git config --show-origin user.name
+   56  git config --system
+   57  git config --global
+   58  pwd
+   59  cd go
+   60  cd src/hello
+   61  git config
+   62  git config --global user.name "ksun"
+   63  git config --global user.email "kisun.han@gmail.com"
+   64  git config --global color.ui auto
+   65  git nint
+   66  git init
+   67  git status
+   68  git add hello.go
+   69  git status
+   70  git rm --cached hello.go
+   71  git status
+   72  git add *.go
+   73  git status
+   74  git commit 
+   75  git status
+   76  clear
+   77  exit
+   78  pwd
+   79  cd go
+   80  cd src
+   81  cd hello
+   82  git help
+   83  cd ..
+   84  git init
+   85  cd ..
+   86  git init
+   87  cd src
+   88  cd ..
+   89  cd src
+   90  git status
+   91  git add
+   92  git add .
+   93  git status
+   94  git commit -m 'first golang'
+   95  git status
+   96  git remote add origin https://github.com/hankisun/golang.git
+   97  git status
+   98  git push -u origin master
+   99  git log
+  100  git status
+  101  git diff
+  102  git reset
+  103  git diff
+  104  git add .
+  105  git diff
+  106  git reset
+  107  git diff
+  108  git add .
+  109  git branch dev
+  110  git checkout dev
+  111  git diff
+  112  git reset
+  113  git status
+  114  git add .
+  115  git commit -m 'hello golang'
+  116  git push origin
+  117  git show b68cfc0
+  118  git push origin dev
+  119  git branch
+  120  git checkout master
+  121  git merge dev
+  122  git checkout master
+  123  git merge dev
+  124  git push origin
+  125  git branch -D dev
+  126  git push origin
+  127  git branch
+  128  git branch -d origin/dev
+  129  git branch -d origin dev
+  130  git remote show dev
+  131  git remote show origin
+  132  git config
+  133  git config --get global
+  134  git config --get-all
+  135  git config -l
+  136  histhi
+  137  history
+  138  history . history.txt
+  139  history > history.txt
